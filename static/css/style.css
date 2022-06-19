@@ -1,0 +1,14 @@
+body {
+
+    color: #F0F8FF;
+  }
+  
+  .jumbotron {
+    background-image: url("../images/bacteria.jpg");
+    background-size: 100% 100%;
+    text-align: center;
+  }
+  
+  .bg-dark, .list-group, .list-group-item {
+    background-color: #31373D;
+  }
